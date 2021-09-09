@@ -16,3 +16,4 @@ public class CalculatorTest {
         Assertions.assertEquals(3, result);
     }
 }
+
